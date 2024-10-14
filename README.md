@@ -1,1 +1,1 @@
-# CS331 Patern Recognition
+# CS338 Patern Recognition
