@@ -1,0 +1,8 @@
+# Tất cả tệp văn bản sẽ sử dụng kiểu kết thúc dòng tự động
+* text=auto
+
+# Đối với các tệp Python, sử dụng kiểu kết thúc dòng LF
+*.py text eol=lf
+
+# Đối với các tệp CUDA (.cu), cũng sử dụng kiểu kết thúc dòng LF
+*.cu text eol=lf

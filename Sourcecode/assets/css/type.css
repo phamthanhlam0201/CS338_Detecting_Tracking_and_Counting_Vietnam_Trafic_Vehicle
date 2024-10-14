@@ -1,0 +1,7 @@
+/* styles.css */
+.stButton button {
+    width: 70%;
+    margin: auto 0; /* Để căn đều theo chiều ngang */
+    text-align: center; /* Để căn chữ bên trong button vào giữa */
+    margin-left: 30px; /* Thêm khoảng cách bên trái là 20px */
+}
